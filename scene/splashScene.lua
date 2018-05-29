@@ -2,7 +2,7 @@
 --
 -- splashScene.lua
 --
--- Created By: Amin Zeina 
+-- Created By: Fawaz Mezher
 -- Created On: May 2018
 -----------------------------------------------------------------------------------------
 local composer = require( "composer" )
